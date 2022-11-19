@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Victor asamu
 - 👀 I’m a full stack web developer
-- 🌱 I’m currently learning at SQI college of ict
 
 
 <!---
